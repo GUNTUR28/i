@@ -1,0 +1,86 @@
+[2020-03-27 11:01:17.144] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck @args.txt
+[2020-03-27 11:01:17.144] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2020-03-27 11:01:17.144] [DISPLAY] [Main ] [main] Build type: FMB
+[2020-03-27 11:01:17.145] [DISPLAY] [Main ] [main] Version: 1.0.19.234
+[2020-03-27 11:01:17.145] [DISPLAY] [Main ] [main] Parameters:
+[2020-03-27 11:01:17.146] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2020-03-27 11:01:17.146] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2020-03-27 11:01:17.146] [DISPLAY] [Main ] [main]     @args.txt
+[2020-03-27 11:01:17.157] [DISPLAY] [Main ] [minmode] Running in Steam mode
+[2020-03-27 11:01:17.157] [DISPLAY] [Main ] [minmode] Steam App Id: 271590
+[2020-03-27 11:01:17.157] [DISPLAY] [Main ] [minmode] Title Id: gta5
+[2020-03-27 11:01:17.157] [DISPLAY] [Main ] [minmode] Location: C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V
+[2020-03-27 11:01:17.158] [DISPLAY] [Main ] [launcher] Opening log file.
+[2020-03-27 11:01:17.214] [WARNING] [Main ] [title] No default branch for title gtasa
+[2020-03-27 11:01:17.215] [WARNING] [Main ] [title] No default branch for title gta5
+[2020-03-27 11:01:17.215] [WARNING] [Main ] [title] No default branch for title rdr2
+[2020-03-27 11:01:17.215] [WARNING] [Main ] [title] No default branch for title lanoire
+[2020-03-27 11:01:17.215] [WARNING] [Main ] [title] No default branch for title bully
+[2020-03-27 11:01:17.216] [WARNING] [Main ] [title] No default branch for title mp3
+[2020-03-27 11:01:17.216] [WARNING] [Main ] [title] No default branch for title gtavc
+[2020-03-27 11:01:17.216] [WARNING] [Main ] [title] No default branch for title gta3
+[2020-03-27 11:01:17.216] [WARNING] [Main ] [title] No default branch for title gta4
+[2020-03-27 11:01:17.216] [DISPLAY] [Main ] [titlemanager] Installation status:
+[2020-03-27 11:01:17.217] [DISPLAY] [Main ] [titlemanager] - Title gta5      : Not installed
+[2020-03-27 11:01:17.217] [DISPLAY] [Main ] [titlemanager] - Title gtasa     : Not installed
+[2020-03-27 11:01:17.217] [DISPLAY] [Main ] [titlemanager] - Title rdr2      : Not installed
+[2020-03-27 11:01:17.217] [DISPLAY] [Main ] [titlemanager] - Title lanoire   : Not installed
+[2020-03-27 11:01:17.217] [DISPLAY] [Main ] [titlemanager] - Title mp3       : Not installed
+[2020-03-27 11:01:17.218] [DISPLAY] [Main ] [titlemanager] - Title bully     : Not installed
+[2020-03-27 11:01:17.218] [DISPLAY] [Main ] [titlemanager] - Title gtavc     : Not installed
+[2020-03-27 11:01:17.218] [DISPLAY] [Main ] [titlemanager] - Title gta3      : Not installed
+[2020-03-27 11:01:17.218] [DISPLAY] [Main ] [titlemanager] - Title gta4      : Not installed
+[2020-03-27 11:01:17.218] [DISPLAY] [Main ] [titlemanager] - Title launcher  : Installed to: C:\Program Files\Rockstar Games\Launcher
+[2020-03-27 11:01:17.744] [DISPLAY] [Main ] [fileutils] Version: 2.0.5.2 | 1.0.19.234 | FFP
+[2020-03-27 11:01:17.794] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2020-03-27 11:01:18.065] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2020-03-27 11:01:18.667] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2020-03-27 11:01:18.668] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2020-03-27 11:01:18.681] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json'
+[2020-03-27 11:01:19.067] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json' (status: 0/200)
+[2020-03-27 11:01:19.073] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2020-03-27 11:01:19.073] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2020-03-27 11:01:21.075] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2020-03-27 11:01:21.076] [DISPLAY] [Workr] [titlemanager] Retrieved default title: launcher
+[2020-03-27 11:01:21.076] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2020-03-27 11:01:21.077] [WARNING] [Workr] [title] No default branch for title gta5
+[2020-03-27 11:01:21.077] [WARNING] [Workr] [titlemanager] Title gta5      : no branches!
+[2020-03-27 11:01:21.077] [WARNING] [Workr] [title] No default branch for title gtasa
+[2020-03-27 11:01:21.078] [WARNING] [Workr] [titlemanager] Title gtasa     : no branches!
+[2020-03-27 11:01:21.078] [WARNING] [Workr] [title] No default branch for title rdr2
+[2020-03-27 11:01:21.078] [WARNING] [Workr] [titlemanager] Title rdr2      : no branches!
+[2020-03-27 11:01:21.078] [WARNING] [Workr] [title] No default branch for title lanoire
+[2020-03-27 11:01:21.078] [WARNING] [Workr] [titlemanager] Title lanoire   : no branches!
+[2020-03-27 11:01:21.078] [WARNING] [Workr] [title] No default branch for title mp3
+[2020-03-27 11:01:21.078] [WARNING] [Workr] [titlemanager] Title mp3       : no branches!
+[2020-03-27 11:01:21.079] [WARNING] [Workr] [title] No default branch for title bully
+[2020-03-27 11:01:21.079] [WARNING] [Workr] [titlemanager] Title bully     : no branches!
+[2020-03-27 11:01:21.079] [WARNING] [Workr] [title] No default branch for title gtavc
+[2020-03-27 11:01:21.079] [WARNING] [Workr] [titlemanager] Title gtavc     : no branches!
+[2020-03-27 11:01:21.079] [WARNING] [Workr] [title] No default branch for title gta3
+[2020-03-27 11:01:21.079] [WARNING] [Workr] [titlemanager] Title gta3      : no branches!
+[2020-03-27 11:01:21.080] [WARNING] [Workr] [title] No default branch for title gta4
+[2020-03-27 11:01:21.080] [WARNING] [Workr] [titlemanager] Title gta4      : no branches!
+[2020-03-27 11:01:21.080] [DISPLAY] [Workr] [titlemanager] Title launcher  : on branch "default"
+[2020-03-27 11:01:21.080] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2020-03-27 11:01:21.081] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
+[2020-03-27 11:01:21.086] [DISPLAY] [Workr] [launcher] No self-update, continuing.
+[2020-03-27 11:01:21.086] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
+[2020-03-27 11:01:21.091] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.0.5.2)
+[2020-03-27 11:01:21.091] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2020-03-27 11:01:21.323] [DISPLAY] [Main ] [gameslibrary] Could not get game library list from disk; assuming no game libraries exist yet.
+[2020-03-27 11:01:24.357] [DISPLAY] [Main ] [scuimessage] Sending version info to Social Club UI
+[2020-03-27 11:01:24.360] [DISPLAY] [Main ] [external] Notifying Social Club UI about external launch...
+[2020-03-27 11:01:24.363] [DISPLAY] [Admin] [external] Setting up Steam title...
+[2020-03-27 11:01:24.364] [DISPLAY] [Admin] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json'
+[2020-03-27 11:01:24.888] [DISPLAY] [Admin] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json' (status: 0/200)
+[2020-03-27 11:01:24.899] [DISPLAY] [Admin] [external] Ready to attempt a launch.
+[2020-03-27 11:01:26.495] [DISPLAY] [Main ] [launcher] Time to start up: 9360 ms
+[2020-03-27 11:01:26.499] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 96,96
+[2020-03-27 11:01:26.500] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.00
+[2020-03-27 11:01:26.501] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 43,64 (1280 x 600)
+[2020-03-27 11:01:26.538] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2020-03-27 11:01:32.133] [WARNING] [ 7484] [diag] Unable to load DxDiag info from disk
+[2020-03-27 11:04:27.152] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2020-03-27 11:04:27.259] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2020-03-27 11:04:27.466] [DISPLAY] [Main ] [launcher] Closing log file.
